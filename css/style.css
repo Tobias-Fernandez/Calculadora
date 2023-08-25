@@ -58,6 +58,10 @@ button:active {
     background-color: #2c2731;
 }
 
+button:focus {
+    outline: none;
+}
+
 .col-2 {
     grid-column: span 2;
 }
